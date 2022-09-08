@@ -2,23 +2,23 @@
 Author: Mihaela Malita
 This is the <b>README.md</b> file from the test repository called <b>HelloWorld</b>  <br>
 in <a href="https://github.com/mmalita">https://github.com/mmalita</a> <br>
-See how we can add and change files
+See how we can add and change files..
 <ol>
 <li><a href="firstprog.cpp">firstprog.cpp</a>
-<li>hello.cpp
-<li>helloArray.cpp
-<li>helloCheckName.cpp
-<li>helloGOTO.cpp
-<li>helloString.cpp
-<li>hellobeep.cpp
-<li>hellochar.cpp
-<li>hellofor.cpp
-<li>helloforLabel.cpp
-<li>hellofunc.cpp
-<li>hellofunc0.cpp
-<li>hellofunc1.cpp
-<li>hellomatrix.cpp
-<li>helloname.cpp
-<li>operations.cpp
-<li>shape.cpp
+<li><a href="firstprog.cpp">hello.cpp</a>
+<li><a href="firstprog.cpp">helloArray.cpp</a>
+<li><a href="firstprog.cpp">helloCheckName.cpp</a>
+<li><a href="firstprog.cpp">helloGOTO.cpp</a>
+<li><a href="firstprog.cpp">helloString.cpp</a>
+<li><a href="firstprog.cpp">hellobeep.cpp</a>
+<li><a href="firstprog.cpp">hellochar.cpp</a>
+<li><a href="firstprog.cpp">hellofor.cpp</a>
+<li><a href="firstprog.cpp">helloforLabel.cpp</a>
+<li><a href="firstprog.cpp">hellofunc.cpp</a>
+<li><a href="firstprog.cpp">hellofunc0.cpp</a>
+<li><a href="firstprog.cpp">hellofunc1.cpp</a>
+<li><a href="firstprog.cpp">hellomatrix.cpp</a>
+<li><a href="firstprog.cpp">helloname.cpp</a>
+<li><a href="firstprog.cpp">operations.cpp</a>
+<li><a href="firstprog.cpp">shape.cpp</a>
 </ol>
